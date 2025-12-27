@@ -1,4 +1,1 @@
-// یک سرویس ورکر ساده برای فعال‌سازی قابلیت PWA
-self.addEventListener('fetch', (event) => {
-    // کدها را بعداً می‌توانید اینجا اضافه کنید
-});
+self.addEventListener('fetch', (event) => {});
